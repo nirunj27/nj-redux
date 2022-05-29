@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.img_wrapper img{
+    width:150px;
+    height:150px;
+}
+
+.add_to_cart img {
+    width:50px;
+    height:50px;
+    float: right;
+    margin-right: 20px;
+}
+
+button {
+    background-color:blueviolet;
+    color:black;
+    border:1px solid black
+}
