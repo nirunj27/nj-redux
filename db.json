@@ -1,0 +1,178 @@
+{
+  "patient": [
+    {
+      "id": 1,
+      "firstname": "niranjan",
+      "lastname": "jathar"
+    },
+    {
+      "id": 2,
+      "firstname": "omkar",
+      "lastname": "mankar"
+    },
+    {
+      "id": 3,
+      "firstname": "abhishek",
+      "lastname": "jathar"
+    }
+  ],
+  "initalassessment": [
+    {
+      "pulse": "67",
+      "bp": "56",
+      "RR": "34",
+      "Spo2": "",
+      "Sugar": "",
+      "Height": "",
+      "Weight": "",
+      "id": 1
+    },
+    {
+      "pulse": "67",
+      "bp": "56",
+      "RR": "34",
+      "Spo2": "",
+      "Sugar": "",
+      "Height": "",
+      "Weight": "",
+      "id": 2
+    },
+    {
+      "pulse": "67",
+      "bp": "56",
+      "RR": "34",
+      "Spo2": "",
+      "Sugar": "",
+      "Height": "",
+      "Weight": "",
+      "id": 3
+    },
+    {
+      "pulse": "67",
+      "bp": "56",
+      "RR": "34",
+      "Spo2": "",
+      "Sugar": "",
+      "Height": "",
+      "Weight": "",
+      "id": 4
+    }
+  ],
+  "newpatientappointment": [
+    {
+      "patientname": "niranjan",
+      "doctorname": "thomas",
+      "speciality": "urology",
+      "complaints": "test",
+      "appointmenttime": "08:58",
+      "timeslot": "5.00",
+      "billing": "complete",
+      "id": 1
+    },
+    {
+      "patientname": "niru",
+      "doctorname": "thomas",
+      "speciality": "urology",
+      "complaints": "test",
+      "appointmenttime": "22:13",
+      "timeslot": "10.00",
+      "billing": "complete",
+      "id": 2
+    },
+    {
+      "patientname": "omkar",
+      "doctorname": "nj",
+      "speciality": "pathology",
+      "complaints": "tesnew",
+      "appointmenttime": "18:57",
+      "date": "2022-01-12",
+      "timeslot": "5.00",
+      "billing": "complete",
+      "id": 3
+    },
+    {
+      "patientname": "kunal",
+      "doctorname": "thomas",
+      "speciality": "urology",
+      "complaints": "newtest",
+      "appointmenttime": "16:12",
+      "date": "2022-01-13",
+      "timeslot": "5.00",
+      "billing": "complete",
+      "id": 4
+    }
+  ],
+  "dignosis": [
+    {
+      "dignosiscode": "covid",
+      "doctorname": "kunal jathar",
+      "dignosissequence": "2",
+      "dignosisdate": "22/02/2021",
+      "yearofonset": "12",
+      "dignosisstatus": "cured",
+      "dignosisremarks": "test",
+      "id": 1
+    }
+  ],
+  "dignosiscode": [
+    {
+      "id": "1",
+      "dignosis_code": "A0102(Typhoid fever with heart involvement)"
+    },
+    {
+      "id": "2",
+      "dignosis_code": "A0103(Typhoid pneumonia)"
+    },
+  {
+      "id": "3",
+      "dignosis_code": "A0104(Typhoid arthritis)"
+
+    },
+{
+      "id": "4",
+      "dignosis_code": "A0105(Typhoid osteomyelitis)"
+    },
+{
+      "id": "5",
+      "dignosis_code": "U071(COVID-19)"
+    },
+{
+      "id": "6",
+      "dignosis_code": "U099(Post COVID-19 condition, unspecified)"
+    },
+
+{
+      "id": "7",
+      "dignosis_code": "A000(Cholera due to Vibrio cholerae 01, biovar cholerae)"
+    },
+{
+      "id": "8",
+      "dignosis_code": "Z990(Dependence on aspirator)"
+    },
+{
+      "id": "9",
+      "dignosis_code": "Z992(Dependence on renal dialysis)"
+    },
+    {
+      "id":"10",
+      "dignosis_code":"Z993(Dependence on wheelchair)"
+  }
+  ],
+   "symptoms": [
+    {
+      "symptomsid": 111,
+      "symptomsname": "cough",
+      "symptomssynonyms": ["cough"]
+    },
+    {
+      "symptomsid": 112,
+      "symptomsname": "headache",
+      "symptomssynonyms": ["headache"]
+    },
+    {
+      "symptomsid": 113,
+      "symptomsname": "fever",
+      "symptomssynonyms": ["fever"]
+    }
+  ]
+}
